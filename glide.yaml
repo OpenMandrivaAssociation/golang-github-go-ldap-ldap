@@ -1,0 +1,5 @@
+import:
+- package: gopkg.in/asn1-ber.v1
+  version: f4b6f4a84f5cde443d1925b5ec185ee93c2bdc72
+package: github.com/go-ldap/ldap
+
